@@ -347,4 +347,3 @@ func Example() {
 	// 6. Signature verified: true
 	// 7. Message: Secure message
 }
-

@@ -4,7 +4,7 @@ Cryptographic utilities for Ed25519 signing and Curve25519 encryption in Go
 
 [![CI](https://github.com/go-extras/cryptohelpers/actions/workflows/go-test.yml/badge.svg?branch=master)](https://github.com/go-extras/cryptohelpers/actions/workflows/go-test.yml)
 [![Go Reference](https://pkg.go.dev/badge/github.com/go-extras/cryptohelpers.svg)](https://pkg.go.dev/github.com/go-extras/cryptohelpers)
-[![Go Report Card](https://goreportcard.com/report/github.com/go-extras/cryptohelpers)](https://goreportcard.com/report/github.com/go-extras/cryptohelpers)
+[![Go Report Card](https://goreportcard.com/badge/github.com/go-extras/cryptohelpers)](https://goreportcard.com/report/github.com/go-extras/cryptohelpers)
 [![Go Version](https://img.shields.io/badge/go-%3E%3D1.25-00ADD8?logo=go)](https://go.dev/dl/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

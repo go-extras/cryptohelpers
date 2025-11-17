@@ -8,8 +8,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/go-extras/cryptohelpers"
 	"golang.org/x/crypto/nacl/box"
+
+	"github.com/go-extras/cryptohelpers"
 )
 
 // ExampleSignPayload demonstrates how to sign a message using Ed25519.
